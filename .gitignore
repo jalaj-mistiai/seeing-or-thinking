@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+##  project specific
+data/
+runs/
+checkpoints/
+*.safetensors
+*.pt
+*.bin
